@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/
+backups/
+*.log
+apply-phone-update.sh
+osint-sentinel-startup/
