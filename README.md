@@ -4,6 +4,12 @@ A local-first OSINT dashboard for Samsung and other Android phones, powered by T
 
 **This is an early working build, and much more is coming soon.** We are building a practical investigation workspace that can start with one tap from your phone’s home screen.
 
+## Built on the work of others
+
+Thank you to **Siddharth Dushantha, the Sherlock Project contributors, soxoj and the Maigret contributors, the Termux team, and the maintainers of PRoot-Distro, PRoot, Debian, Python, pipx, and the supporting utilities**. Their work makes this project possible. Sentinel provides the dashboard and integration; the upstream authors deserve credit for their tools and research logic.
+
+See [credits and third-party notices](THIRD-PARTY-NOTICES.md) for project links, licenses, and how each component is used. This is an independent project with no implied upstream endorsement.
+
 ## What we built
 
 We started with a browser dashboard running inside Debian and added the pieces needed to make it usable on a phone:
